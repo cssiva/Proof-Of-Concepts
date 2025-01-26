@@ -8,6 +8,7 @@ I have 2 years live tasks internship experience on Cloud cum DevOps role activit
 
 1.Script Deconstruction: Revealing the Inner Workings of an Advanced CI/CD Workflow:
 Reverse-engineered an existing script to uncover its functionality, dissecting key components and discerning a comprehensive CI/CD pipeline for API development. Analyzed Docker image management, conditional deployment, and environment configurations to unveil a robust, scalable, and efficient software delivery process. Demonstrated proficiency in deciphering complex scripts and understanding modern CI/CD practices.
+
  Demo: https://youtu.be/cbquXTAQY-4
 
 2.Data-Driven Decisions: Harnessing Chat GPT for E-commerce Customer Feedback Analysis:
