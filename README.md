@@ -3,7 +3,7 @@
 Profile Appendix about Internship from Siva Krishna:
 Linkedin Profile:  https://www.linkedin.com/in/ch-siva-krishna/
 
-I have 2 years of live tasks internship experience on Cloud/DevOps and AI/ML/Gen AI role activities with AWS and Azure. I demonstrated my Proof of Concept projects to my coach in different demos towards AWS and Azure services usage in projects, including manual and automated infrastructure using basic services, Terraform, CloudFormation, Lambda, Boto3, ECS, and EKS. And for Azure automation also. The URLS of my demos/presentations can be seen below.
+I have 2 years of live tasks internship experience on Cloud/DevOps and AI/ML/Gen AI role activities with AWS and Azure. I demonstrated my Proof of Concept projects to my coach in different demos towards AWS and Azure services usage in projects, including manual and automated infrastructure using basic services, Terraform, CloudFormation, Lambda,Amazon Lex,Sage Maker,Boto3, ECS, and EKS. And for Azure automation also. The URLS of my demos/presentations can be seen below.
 
 
 1.Script Deconstruction: Revealing the Inner Workings of an Advanced CI/CD Workflow:
