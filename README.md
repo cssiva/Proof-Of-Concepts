@@ -1,6 +1,6 @@
 # Proof-Of-Concepts
 
-Profile Appendix on Internship from Siva Krishna:
+Profile Appendix about Internship from Siva Krishna:
 Linkedin Profile:  https://www.linkedin.com/in/ch-siva-krishna/
 
 I have 2 years live tasks internship experience on Cloud cum DevOps role activities with AWS and AZURE.I have demonstrated my Proof of Concept projects [POCs] to my Coach in different demos towards AWS and AZURE services usage in projects includes manual and automation of Infrastructure by using Basic services/Terraform/Cloud Formation/Lamda/Boto3/ECS/EKS. These skills can help the organizations to utilize me for the real live activities of the DevOps Projects of Multi Cloud (AWS and AZURE). Looking for a challenging work environment to contribute as DevOps Engineer. The URLS of my demos/presentations can be seen below.
