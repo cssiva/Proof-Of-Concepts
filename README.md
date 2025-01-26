@@ -13,6 +13,7 @@ Reverse-engineered an existing script to uncover its functionality, dissecting k
 
 2.Data-Driven Decisions: Harnessing Chat GPT for E-commerce Customer Feedback Analysis:
 In this scenario, Chat GPT has been utilized to analyze customer feedback from an E-commerce application. By processing a sample CSV data set, Chat GPT extracts valuable insights from customer reviews and feedback. Leveraging its natural language understanding, Chat GPT interprets customer sentiments, identifies trends, and provides businesses with actionable information, enabling them to enhance user experience and make data-driven improvements to their E-commerce platform.
+
 Demo: https://youtu.be/gAp879bVwaA
 
 3.Strategic Development: Micro services Setup, Authentication, and Seamless AWS Integration:
