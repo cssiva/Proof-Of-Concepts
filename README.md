@@ -26,7 +26,7 @@ In this POC, my objective is to establish a robust and efficient system for stor
 
 Demo: https://www.youtube.com/watch?v=5gCtXXUmLhU&t=17s
 
-6. AWS Chat bot design-Data upload into DynamoDB-Demo:
+5. AWS Chat bot design-Data upload into DynamoDB-Demo:
 In this POC, my aim is to developing a robust data management system for a dynamic AWS Chatbot platform that relies on user interactions and historical data to enhance customer experiences. The system is hosted on AWS, leveraging the capabilities of Amazon DynamoDB as the primary database solution.
 
 Demo: https://www.youtube.com/watch?v=z4_Y7sBYhyQ
