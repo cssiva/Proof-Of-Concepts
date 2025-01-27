@@ -148,37 +148,37 @@ Demo: https://www.facebook.com/vskumarcloud/videos/950011026379979/
 27.VM-CREATION-CLI-AZURE PORTAL :
 In this poc, I automated VM provisioning with Azure CLI and standardized deployment using Azure PowerShell, ensuring security and compliance.
 
-Demo: https://www.facebook.com/watch/?v=1327330671419607
+Demo: https://www.facebook.com/100063920745320/videos/2101964186858876
 
 28.AZ-WEB PAGE-CREATION :
 In this poc, I initiated the creation of a scalable web app through Azure Portal, meticulously coded the application, seamlessly deployed it to Azure App Service, and verified its live functionality via the assigned URL, ensuring a robust and accessible online presence for the organization.
 
-Demo: https://fb.watch/hlMGbqrPvv/
+Demo: https://www.facebook.com/100063920745320/videos/5584635398322017
 
 29.DEPLOY JAVA WEB PAGE ON AZURE :
 In this poc,I engineered a Java-based web application for  Enterprises, initiated the creation of an Azure Web App via the Azure Portal, meticulously crafted the Java application code, executed a seamless deployment to Azure App Service, and validated the live site's functionality through the assigned URL, establishing a resilient and responsive online presence for the organization.
 
-Demo: https://fb.watch/hlMJ01rkSe/
+Demo: https://www.facebook.com/100063920745320/videos/542038601033225
 
 30.AZ-WORDPRESS-1-TIER SETUP :
 In this poc,I orchestrated a robust Ubuntu Virtual Machine on Azure, optimizing for a dynamic web environment. Utilized SSH to securely connect to the server, facilitating remote management. Implemented a comprehensive web stack with Apache2, MySQL, and PHP, culminating in the seamless deployment of WordPress accessible via the assigned Public IP.
 
-Demo: https://fb.watch/hlMNuBIGat/
+Demo: https://www.facebook.com/100063920745320/videos/643703627542644
 
 31.ARM-CREATE RESOURCES :
 In this poc, I established a robust cloud infrastructure by creating a Storage account, Vnet network, and Virtual Machine. Expanded functionality with a Web App and SQL Server, ensuring seamless resource management and accessibility through a unified view of all deployed resources.
 
-Demo: https://fb.watch/hlMFIqQ6-K/
+Demo: https://www.facebook.com/100063920745320/videos/1352900805447813
 
 32.AZ-DATA-STORAGE :
 In this poc,I implemented Azure Blob Storage for scalable and cost-effective object storage. Established Table Storage for structured No SQL data, File Storage for shared file access, and Queue Storage for efficient message queuing. Additionally, provisioned Disk Storage to meet high-performance computing demands, collectively forming a versatile and optimized storage solution to support diverse workloads across the organization.
 
-Demo: https://fb.watch/hlNc7pevEb/
+Demo: https://www.facebook.com/100063920745320/videos/1186445558668737
 
 33.AZ-DATA STORAGE SHARE :
 In this poc,I established a robust access control strategy, evaluating Access Control, Shared Access Signatures, and Access Keys to ensure secure and granular permissions management. Implemented object replication for data redundancy and resilience, safeguarding critical information. Additionally, enabled a static website feature to provide a seamless and responsive online experience for our users, aligning with our organization's dynamic web requirements.
 
-Demo:  https://fb.watch/hlNlCHp2G3/
+Demo:  https://www.facebook.com/100063920745320/videos/1259809878192622
 
 34.AZ- BUILD AND DEPLOY A WEBAPP USING AZURE APP SERVICE :
 In this poc,my response to project scalability, implemented Azure Container Registry for centralized Docker image management. Automated Docker image builds and uploads to ACR, ensuring versioned control. Secured Docker access to ACR for robust container orchestration. Deployed a web app directly from Docker, validating functionality through a designated URL. Instituted Continuous Deployment with a web hook for seamless updates. Conducted modifications to the web app, verifying changes through the URL, ensuring an agile and responsive development life cycle.
