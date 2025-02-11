@@ -190,3 +190,15 @@ In this poc. I generated a GitHub Personal Access Token for streamlined authenti
 
 Demo: https://www.facebook.com/100063920745320/videos/305819715613809
 
+36.Solution Demo-Patient data ETL-migration-AZ ADF
+I have demonstrated a solution demo on migrating patient data using Azure Data Factory (ADF). Showcased how to automate data extraction, transformation, and loading (ETL) for secure and efficient healthcare data management.
+
+Demo: https://www.youtube.com/watch?v=jRrFamSSRHw&t=712s
+
+37. Azure-WP-2 tier setup with TF & Python IAC-Demo
+Developed a two-tier WordPress deployment on Azure using Terraform and Python to automate infrastructure setup. Ensured seamless provisioning, scalability, and efficient cloud resource management through Infrastructure-as-Code (IaC).
+
+Demo: https://www.youtube.com/watch?v=D0gASuvqQtM
+
+
+
