@@ -9,6 +9,14 @@ I have 2 years of live tasks internship experience on Cloud/DevOps and AI/ML/Gen
 
 Demo: https://www.youtube.com/watch?v=HD4B9n5wRd8&t=1449s
 
+2. A Python code review for a car price ML model design, focusing on data preprocessing, feature selection, model training, and evaluation. Ensuring code quality, efficiency, and scalability for accurate price prediction.
+
+Demo: https://www.youtube.com/watch?v=RsNVODkBHug&t=4s
+
+3. A gap analysis comparing traditional Linear Regression in Python with TensorFlow-based deep learning models, highlighting differences in implementation, performance, and scalability for solving regression problems efficiently.
+
+Demo: https://www.youtube.com/watch?v=9tVbeRKFiYs&t=4s
+
 
 1.Script Deconstruction: Revealing the Inner Workings of an Advanced CI/CD Workflow:
 Reverse-engineered an existing script to uncover its functionality, dissecting key components and discerning a comprehensive CI/CD pipeline for API development. Analyzed Docker image management, conditional deployment, and environment configurations to unveil a robust, scalable, and efficient software delivery process. Demonstrated proficiency in deciphering complex scripts and understanding modern CI/CD practices.
