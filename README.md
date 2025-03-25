@@ -9,11 +9,11 @@ I have 2 years of live tasks internship experience on Cloud/DevOps and AI/ML/Gen
 
 Demo: https://www.youtube.com/watch?v=HD4B9n5wRd8&t=1449s
 
-2. A Python code review for a car price ML model design, focusing on data preprocessing, feature selection, model training, and evaluation. Ensuring code quality, efficiency, and scalability for accurate price prediction.
+2.A Python code review for a car price ML model design, focusing on data preprocessing, feature selection, model training, and evaluation. Ensuring code quality, efficiency, and scalability for accurate price prediction.
 
 Demo: https://www.youtube.com/watch?v=RsNVODkBHug&t=4s
 
-3. A gap analysis comparing traditional Linear Regression in Python with TensorFlow-based deep learning models, highlighting differences in implementation, performance, and scalability for solving regression problems efficiently.
+3.A gap analysis comparing traditional Linear Regression in Python with TensorFlow-based deep learning models, highlighting differences in implementation, performance, and scalability for solving regression problems efficiently.
 
 Demo: https://www.youtube.com/watch?v=9tVbeRKFiYs&t=4s
 
