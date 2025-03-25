@@ -5,6 +5,10 @@ Linkedin Profile:  https://www.linkedin.com/in/ch-siva-krishna/
 
 I have 2 years of live tasks internship experience on Cloud/DevOps and AI/ML/Gen AI role activities with AWS and Azure. I demonstrated my Proof of Concept projects to my coach in different demos towards AWS and Azure services usage in projects, including manual and automated infrastructure using basic services, Terraform, CloudFormation, Lambda,Amazon Lex,Sage Maker,Boto3, ECS, and EKS. And for Azure automation also. The URLS of my demos/presentations can be seen below.
 
+1.Demonstrating an end-to-end Car Price Prediction ML Model product design, covering data preprocessing, feature selection, model training, and evaluation, ensuring accurate price estimation for informed decision-making in the automotive industry.
+
+Demo: https://www.youtube.com/watch?v=HD4B9n5wRd8&t=1449s
+
 
 1.Script Deconstruction: Revealing the Inner Workings of an Advanced CI/CD Workflow:
 Reverse-engineered an existing script to uncover its functionality, dissecting key components and discerning a comprehensive CI/CD pipeline for API development. Analyzed Docker image management, conditional deployment, and environment configurations to unveil a robust, scalable, and efficient software delivery process. Demonstrated proficiency in deciphering complex scripts and understanding modern CI/CD practices.
